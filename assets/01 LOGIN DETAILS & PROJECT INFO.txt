@@ -1,10 +1,4 @@
-**Log on to codeastro.com for more projects!**
-
-**Database Name: foodorderigniter**
-
-**Developed by Rahul Shewale**
-
-**Recommended PHP Version 7.4.12**
+\
 
 
 Remember: Do not change the project's folder name without updating $config['base_url']
