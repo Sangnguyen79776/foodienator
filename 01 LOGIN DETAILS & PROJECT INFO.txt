@@ -1,0 +1,18 @@
+
+
+**Recommended PHP Version 7.4.12**
+
+
+Remember: Do not change the project's folder name without updating $config['base_url']
+
+
+**Admin Login Details** 
+
+Username: admin
+Password: admin
+ ** Go to localhost:8080/foodienator/admin to see admin login form 
+
+**Customer Login Details**
+
+Username: taylor
+Password: password
